@@ -1,5 +1,5 @@
 # Data-Analysis-Projects
-### Hi I am Sarah Khan, I am happy to welcome you, here you can find my projects I have done so far.
+### Hi I am Sarah Khan, I am happy to welcome you. Here you can find my projects I have done so far.
 
 ## Tableau Data Analysis
 https://public.tableau.com/app/profile/sarah.khan1673/viz/week3_17327426212110_17405552039280/Story1
