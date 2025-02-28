@@ -18,7 +18,7 @@ https://github.com/SarahKhan96/Sarah_DataAnalysisPortfolioProjects/blob/41308f51
 
 ## Power BI Data Analysis dashboards
 Data Analysis, Data Visualization, Data Insights
-![2025-02-28 (1)](https://github.com/user-attachments/assets/1a26d7e1-4e84-4f34-a6d5-625bcd219f88)
+![2025-02-28 (2)](https://github.com/user-attachments/assets/d7aac76b-0135-4218-a433-70bfac9053b8)
 
 ![2025-02-27 (1)](https://github.com/user-attachments/assets/cb97e99c-e873-4e14-904c-d53dd0436ba3)
 
