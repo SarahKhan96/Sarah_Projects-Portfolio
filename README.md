@@ -20,7 +20,7 @@ https://github.com/SarahKhan96/Sarah_DataAnalysisPortfolioProjects/blob/41308f51
 Data Analysis, Data Visualization, Data Insights
 ![2025-02-28 (2)](https://github.com/user-attachments/assets/d7aac76b-0135-4218-a433-70bfac9053b8)
 
-![2025-02-27 (1)](https://github.com/user-attachments/assets/cb97e99c-e873-4e14-904c-d53dd0436ba3)
+![2025-02-28 (4)](https://github.com/user-attachments/assets/507ad59f-d060-4dbe-85e7-e71ea594a063)
 
 ## IBM Cognos Analytics
 
