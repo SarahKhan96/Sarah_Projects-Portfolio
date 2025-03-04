@@ -4,12 +4,13 @@
 ## Tableau Projects
 Link to my Tableau Profile: https://public.tableau.com/app/profile/sarah.khan1673
 
-DOGNITION: Identified key issue, performed data Analysis and data Visualization to findout trends and insightd and provided recommendations and solutions based on them
+DATA ANALYSIS FOR DOGNITION: Identified key issue, performed data Analysis and data Visualization to findout trends and insightd and provided recommendations and solutions based on them
 ![Dognition story img](https://github.com/user-attachments/assets/9fa9397b-eead-4ec5-979a-0d4f070c5214)
 ![Dognition Interactive dashboard](https://github.com/user-attachments/assets/859e88c6-cac4-4362-9447-720ac8fba28c)
 
 
 FITNESS TRACKER DASHBOARD
+
 ![Fitness Tracker Dashboard](https://github.com/user-attachments/assets/5bc34e6b-b6d1-46e9-abe6-512a12638e9d)
 
 
