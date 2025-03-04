@@ -9,6 +9,10 @@ Link to my tableau public profile: https://public.tableau.com/app/profile/sarah.
 ![2025-02-28](https://github.com/user-attachments/assets/1175b01c-e4e0-4c58-9951-fc3cdb6253e8)
 ![2025-02-27 (5)](https://github.com/user-attachments/assets/2687a643-6c4c-40bb-8a5f-76b33c43b65b)
 
+FITNESS TRACKER DASHBOARD
+![Fitness Tracker Dashboard](https://github.com/user-attachments/assets/5bc34e6b-b6d1-46e9-abe6-512a12638e9d)
+
+
 ## Links to my Python Projects
 
 Data collection, Data Cleaning, Data Analysis, Data Visualization
