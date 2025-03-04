@@ -1,13 +1,12 @@
 # Data-Analysis Projects and Dashboards
 ### Hi I am Sarah Khan, I am happy to welcome you. Here you can find my projects I have done so far.
 
-## Tableau Data Analysis
+## Tableau Projects
+Link to my Tableau Profile: https://public.tableau.com/app/profile/sarah.khan1673
 
 DOGNITION: Identified key issue, performed data Analysis and data Visualization to findout trends and insightd and provided recommendations and solutions based on them
-
-Link to my tableau public profile: https://public.tableau.com/app/profile/sarah.khan1673/viz/week3_17327426212110_17405552039280/Story1
-![2025-02-28](https://github.com/user-attachments/assets/1175b01c-e4e0-4c58-9951-fc3cdb6253e8)
-![2025-02-27 (5)](https://github.com/user-attachments/assets/2687a643-6c4c-40bb-8a5f-76b33c43b65b)
+![Dognition story img](https://github.com/user-attachments/assets/9fa9397b-eead-4ec5-979a-0d4f070c5214)
+![Dognition Dashboard](https://github.com/user-attachments/assets/c5bd5179-0f59-45c1-98e7-8cf6e193acc5)
 
 FITNESS TRACKER DASHBOARD
 ![Fitness Tracker Dashboard](https://github.com/user-attachments/assets/5bc34e6b-b6d1-46e9-abe6-512a12638e9d)
