@@ -1,4 +1,4 @@
-# Data-Analysis-Projects
+# Data-Analysis Projects and Dashboards
 ### Hi I am Sarah Khan, I am happy to welcome you. Here you can find my projects I have done so far.
 
 ## Tableau Data Analysis
