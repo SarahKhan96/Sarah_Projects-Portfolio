@@ -27,6 +27,19 @@ Data Analysis, Data Visualization, Data Insights
 
 ![2025-02-28 (4)](https://github.com/user-attachments/assets/507ad59f-d060-4dbe-85e7-e71ea594a063)
 
+This project presents a pre-launch analysis of Dishglare dish washing liquid based on feedback from 100 sample users. Survey data was visualized using Power BI to extract insights on product performance, user satisfaction, and market readiness, along with strategic recommendations for brand improvement. (Based on Dummy Data)
+![2025-05-25](https://github.com/user-attachments/assets/162a4d1c-8fc2-4614-a3b4-4a83e17c6949)
+![2025-05-25 (1)](https://github.com/user-attachments/assets/d22cfed5-c095-48fd-803b-94ac8181aefa)
+
+Pre-launch analysis of Fabriwash liquid detergent using feedback from 100 users. Power BI visuals and insights supported strategic product and branding recommendations.(Based on Dummy Data)
+![2025-05-25 (3)](https://github.com/user-attachments/assets/e43ef54f-2978-4c3a-8859-58a5bcdb195d)
+![2025-05-25 (4)](https://github.com/user-attachments/assets/987cc044-0115-4d09-b2c2-d30f4839cbe9)
+
+Pre-launch analysis of Cerashine toilet cleaner based on 100 user surveys. Insights and Power BI visuals guided strategic product and marketing decisions. (Based on Dummy Data)
+![2025-05-25 (7)](https://github.com/user-attachments/assets/99dfe27d-5025-43f4-9052-c6222f2d36f7)
+![2025-05-25 (6)](https://github.com/user-attachments/assets/70eaf50c-749d-45e5-9b3c-335be4426809)
+
+
 ## IBM Cognos Analytics
 
 Data Analysis, Data Visualization and Insights
